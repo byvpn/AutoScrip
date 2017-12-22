@@ -2,6 +2,6 @@
 
 1. sudo su
 2. cd
-3. wget https://github.com/byvpn/AutoScrip/raw/master/Debian7x64/install
+3. wget https://github.com/byvpn/Debian7x64/raw/master/install
 4. chmod +x install && ./install
 -----------------------------------------
