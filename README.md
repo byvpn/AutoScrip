@@ -7,7 +7,7 @@ Digitalocean,Vultr,ZCloud,GoogleCloud,AmazonCloud
 คำสั่งติดตั้ง
 
 1. พิมพ์ sudo su
-2. พิมพ์ cd && wget https://github.com/byvpn/Debian7x64/raw/master/install && chmod +x install && ./install
+2. พิมพ์ cd && wget https://github.com/byvpn/AutoScript-Debian7-VPS/raw/master/install && chmod +x install && ./install
 
 --------------------------------------------------------
 ติดตั้งระบบเสร็จเรียบร้อยแล้ว
